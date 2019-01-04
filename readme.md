@@ -343,6 +343,7 @@
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
  - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
  - [ngresizable](https://github.com/mgechev/ngresizable) - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
+ - [angular2gridster](https://github.com/swiety85/angular2gridster) - Angular implementation of well known Gridster
 
 ###### Responsive
 
